@@ -21,6 +21,7 @@ its look like base64string, yeah, decode it
 # powershell command injection
 
 u can inject any powershell command , but hey !! USE AT UR OWN RISK !!!
+  
 ![alt text](https://cdn.discordapp.com/attachments/951192813477965856/996831543991480480/Shot_0019.png)
 
 Written By AuxGrep
