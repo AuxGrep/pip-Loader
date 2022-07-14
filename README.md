@@ -1,6 +1,9 @@
 # pip-Loader
 Hacking LInux , Windows , Mac with &lt;pip install &lt;package>>
 
+# INSTALLATION
+Visit here https://github.com/AuxGrep/pip-Loader/wiki
+
 # HOW?
 pip is a python package manager using which you can install, update and remove packages in your python environments. It comes very handy when you want to use open-source external libraries in your code.
 
