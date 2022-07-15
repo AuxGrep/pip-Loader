@@ -23,7 +23,7 @@ its look like base64string, yeah, decode it
 
 # powershell command injection
 
-u can inject any powershell command , but hey !! USE AT UR OWN RISK !!!
+they can inject powershell command and scripts , but hey !! USE AT UR OWN RISK !!! this only for education purposes.
   
 ![alt text](https://cdn.discordapp.com/attachments/951192813477965856/996831543991480480/Shot_0019.png)
 
