@@ -1,5 +1,5 @@
 # pip-Loader
-Hacking LInux , Windows , Mac with &lt;pip install &lt;package>>
+Targeting LInux , Windows , Mac with &lt;pip install &lt;package>>
 
 # INSTALLATION
 Visit here https://github.com/AuxGrep/pip-Loader/wiki
